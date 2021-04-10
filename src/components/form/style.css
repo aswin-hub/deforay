@@ -1,0 +1,36 @@
+
+
+input {
+    margin: 5px;
+}
+
+.form {
+    background-color: aliceblue;
+    align-content: center;
+}
+
+.button {
+    color: white;
+    background-color: rgb(50, 123, 219);
+    border-radius: 5px;
+}
+
+.warning {
+    color: rgb(38, 38, 38);
+    background-color: yellow;
+    border-radius: 25px;
+}
+
+.danger {
+    color: white;
+    background-color: red;
+    border-radius: 25px;
+}
+
+.table {
+    border: 1px solid black;
+}
+
+.tableHeader {
+    background-color: rgb(152, 170, 209);
+}
